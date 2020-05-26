@@ -1,0 +1,19 @@
+{
+  "name": "openroads",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "jsdom": "^16.2.2",
+    "md5": "^2.2.1",
+    "nodemailer": "^6.4.6",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}

@@ -1,0 +1,113 @@
+[2020/5/26 14:48:28] Updating list...
+[2020/5/26 14:48:29] Found 56 trips.
+[2020/5/26 14:48:29] Trip added: Stockholm Centralstation > Arboga (Personbil)
+[2020/5/26 14:48:29] Trip added: Lidköping > Stockholm Arlanda  (VOLVO XC60)
+[2020/5/26 14:48:29] Trip added: Jönköping  > Göteborg Centralstation (Volvo V90)
+[2020/5/26 14:48:29] Trip added: Stockholm Centralstation > Nyköping (Personbil)
+[2020/5/26 14:48:29] Trip added: Norrtälje > Stockholm Odenplan (Renault Zoe elbil)
+[2020/5/26 14:48:29] Trip added: Västervik > Jönköping  (VOLVO V60)
+[2020/5/26 14:48:29] Trip added: Karlskrona > Linköping (Volvo V40 Crosscountry)
+[2020/5/26 14:48:29] Trip added: Västervik > Stockholm Arlanda  (Volvo V90)
+[2020/5/26 14:48:29] Trip added: Västervik > Nyköping (Volvo V60)
+[2020/5/26 14:48:29] Trip added: Stockholm Centralstation > Västerås (Volvo V40)
+[2020/5/26 14:48:29] Trip added: Mora > Stockholm Arlanda  (V40 CC AUTOMAT)
+[2020/5/26 14:48:29] Trip added: Boden > Stockholm Arlanda  (CLIO)
+[2020/5/26 14:48:29] Trip added: Stockholm Arlanda  > Oslo Centralstation (Seat Ibiza)
+[2020/5/26 14:48:29] Trip added: Sundsvall Bultgatan > Luleå (Volvo V90 D4 Crosscountry AWD)
+[2020/5/26 14:48:29] Trip added: Karlstad > Oslo Gardermoen Flygplats (Skåpbil)
+[2020/5/26 14:48:29] Trip added: Västervik > Stockholm Nacka (V60 )
+[2020/5/26 14:48:29] Trip added: Kalmar > Karlskrona (Volvo V60 Cross Country D4 AWD Aut)
+[2020/5/26 14:48:29] Trip added: Stockholm Haga Norra > Norrtälje (Fiesta)
+[2020/5/26 14:48:29] Trip added: Stockholm Arlanda  > Skövde (PERSONBIL)
+[2020/5/26 14:48:29] Trip added: Jönköping  > Norrköping (RENAULT MEGANE)
+[2020/5/26 14:48:29] Trip added: Oskarshamn > Norrköping (VOLVO XC40)
+[2020/5/26 14:48:29] Trip added: Stockholm Arlanda  > Örebro (V60 AWD AUT DRAG)
+[2020/5/26 14:48:29] Trip added: Uppsala > Örebro (MEGANE KOMBI AUTOMAT)
+[2020/5/26 14:48:29] Trip added: Södertälje > Stockholm Arlanda  ()
+[2020/5/26 14:48:29] Trip added: Ängelholm > Malmö Sturup AP (VOLVO V60)
+[2020/5/26 14:48:29] Trip added: Ängelholm > Göteborg Kungsbacka Bilia (v60)
+[2020/5/26 14:48:29] Trip added: Karlskrona > Stockholm Lidingö  (VOLVO V40)
+[2020/5/26 14:48:29] Trip added: Älmhult Danska Vägen > Göteborg Landvetter (VOLVO V60)
+[2020/5/26 14:48:29] Trip added: Lidköping > Göteborg Centralstation (RENAULT MEGANE)
+[2020/5/26 14:48:29] Trip added: Lidköping > Göteborg Centralstation (VOLVO V60)
+[2020/5/26 14:48:29] Trip added: Östersund > Umeå Verkstadsgatan (Volvo V60CC)
+[2020/5/26 14:48:29] Trip added: Luleå Kallax > Umeå Verkstadsgatan (Volvo V40 )
+[2020/5/26 14:48:29] Trip added: Tranås > Umeå Verkstadsgatan (VOLVO V60)
+[2020/5/26 14:48:29] Trip added: Skellefteå > Umeå Verkstadsgatan (Volvo V40)
+[2020/5/26 14:48:29] Trip added: Boden > Luleå Kallax (Volvo V40)
+[2020/5/26 14:48:29] Trip added: Eskilstuna Bilia > Stockholm Lidingö  (VOLVO V60)
+[2020/5/26 14:48:29] Trip added: Norrköping > Älmhult Danska Vägen (XC40)
+[2020/5/26 14:48:29] Trip added: Stockholm Segeltorp > Nyköping (Volvo V60)
+[2020/5/26 14:48:29] Trip added: Sundsvall Bultgatan > Göteborg Sisjön (RENAULT MASTER)
+[2020/5/26 14:48:29] Trip added: Östersund > Stockholm Akalla  (SKÅP)
+[2020/5/26 14:48:29] Trip added: Östersund > Stockholm Arlanda  (Volvo V90)
+[2020/5/26 14:48:29] Trip added: Härnösand > Södertälje (V40AUT)
+[2020/5/26 14:48:29] Trip added: Örebro > Halmstad (XC40)
+[2020/5/26 14:48:29] Trip added: Gislaved > Halmstad (S90)
+[2020/5/26 14:48:29] Trip added: Karlskrona > Stockholm Arlanda  (VOLVO S90)
+[2020/5/26 14:48:29] Trip added: Karlskrona > Malmö Sturup AP (FIAT TIPO)
+[2020/5/26 14:48:29] Trip added: Karlskrona > Stockholm Arlanda  (VOLVO XC60)
+[2020/5/26 14:48:29] Trip added: Karlskrona > Göteborg Centralstation (VOLVO V40)
+[2020/5/26 14:48:29] Trip added: Helsingborg > Malmö Jörgen Kocksgatan (Toyota RAV4)
+[2020/5/26 14:48:29] Trip added: Luleå Kallax > Stockholm Centralstation (VOLVO V90)
+[2020/5/26 14:48:29] Trip added: Kiruna > Luleå Kallax (Minibuss)
+[2020/5/26 14:48:29] Trip added: Gällivare > Stockholm Centralstation (Volvo V40)
+[2020/5/26 14:48:29] Trip added: Arvidsjaur > Stockholm Centralstation (V90)
+[2020/5/26 14:48:29] Trip added: Vänersborg > Linköping (Captur)
+[2020/5/26 14:48:29] Trip added: Kalmar > Linköping (Captur)
+[2020/5/26 14:48:29] Trip added: Stockholm Hammarby > Linköping (V60)
+[2020/5/26 14:48:29] Found 0 road trips.
+[2020/5/26 14:48:31] Added new station, Stockholm Centralstation
+[2020/5/26 14:48:31] Added new station, Lidköping
+[2020/5/26 14:48:31] Added new station, Karlskrona
+[2020/5/26 14:48:31] Added new station, Karlstad
+[2020/5/26 14:48:31] Added new station, Arboga
+[2020/5/26 14:48:31] Added new station, Luleå
+[2020/5/26 14:48:31] Added new station, Västervik
+[2020/5/26 14:48:31] Added new station, Göteborg Sisjön
+[2020/5/26 14:48:31] Added new station, Umeå Verkstadsgatan
+[2020/5/26 14:48:31] Added new station, Stockholm Odenplan
+[2020/5/26 14:48:31] Added new station, Luleå Kallax
+[2020/5/26 14:48:31] Added new station, Stockholm Hammarby
+[2020/5/26 14:48:31] Added new station, Oslo Gardermoen Flygplats
+[2020/5/26 14:48:31] Added new station, Malmö Sturup AP
+[2020/5/26 14:48:31] Added new station, Halmstad
+[2020/5/26 14:48:31] Added new station, Älmhult Danska Vägen
+[2020/5/26 14:48:31] Added new station, Norrköping
+[2020/5/26 14:48:31] Added new station, Gislaved
+[2020/5/26 14:48:31] Added new station, Arvidsjaur
+[2020/5/26 14:48:31] Added new station, Tranås
+[2020/5/26 14:48:31] Added new station, Jönköping 
+[2020/5/26 14:48:31] Added new station, Stockholm Nacka
+[2020/5/26 14:48:31] Added new station, Gällivare
+[2020/5/26 14:48:31] Added new station, Stockholm Lidingö 
+[2020/5/26 14:48:31] Added new station, Norrtälje
+[2020/5/26 14:48:31] Added new station, Örebro
+[2020/5/26 14:48:31] Added new station, Västerås
+[2020/5/26 14:48:31] Added new station, Eskilstuna Bilia
+[2020/5/26 14:48:31] Added new station, Ängelholm
+[2020/5/26 14:48:31] Added new station, Göteborg Centralstation
+[2020/5/26 14:48:31] Added new station, Kalmar
+[2020/5/26 14:48:31] Added new station, Oskarshamn
+[2020/5/26 14:48:31] Added new station, Sundsvall Bultgatan
+[2020/5/26 14:48:31] Added new station, Skövde
+[2020/5/26 14:48:31] Added new station, Nyköping
+[2020/5/26 14:48:31] Added new station, Stockholm Arlanda 
+[2020/5/26 14:48:31] Added new station, Göteborg Kungsbacka Bilia
+[2020/5/26 14:48:31] Added new station, Boden
+[2020/5/26 14:48:31] Added new station, Stockholm Segeltorp
+[2020/5/26 14:48:31] Added new station, Uppsala
+[2020/5/26 14:48:31] Added new station, Oslo Centralstation
+[2020/5/26 14:48:31] Added new station, Härnösand
+[2020/5/26 14:48:31] Added new station, Mora
+[2020/5/26 14:48:31] Added new station, Södertälje
+[2020/5/26 14:48:31] Added new station, Kiruna
+[2020/5/26 14:48:31] Added new station, Göteborg Landvetter
+[2020/5/26 14:48:31] Added new station, Vänersborg
+[2020/5/26 14:48:31] Added new station, Stockholm Haga Norra
+[2020/5/26 14:48:31] Added new station, Helsingborg
+[2020/5/26 14:48:31] Added new station, Östersund
+[2020/5/26 14:48:31] Added new station, Malmö Jörgen Kocksgatan
+[2020/5/26 14:48:31] Added new station, Stockholm Akalla 
+[2020/5/26 14:48:31] Added new station, Skellefteå
+[2020/5/26 14:48:31] Added new station, Linköping
